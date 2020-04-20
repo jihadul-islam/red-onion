@@ -1,0 +1,17 @@
+.character-block{
+    margin-top:100px;
+}
+.character-block .card{
+    padding: 0px;
+    height: 400px;
+    border-radius: 10px;
+}
+.character-block .card-img-top{
+    border-radius: 10px;
+    padding: 0px !important;
+}
+
+.why-choose-us{
+    margin-left: 110px;
+}
+  

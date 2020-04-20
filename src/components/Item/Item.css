@@ -1,0 +1,22 @@
+.card-item{
+    margin: 5px auto;
+    width: 350px;
+    height: 350px;
+    padding: 10px;
+   background-color: whitesmoke;
+   
+    cursor: pointer;
+}
+.card-item:hover{
+    background-color: gainsboro;
+}
+
+.card:hover{
+    
+}
+
+.card-img-top{
+    height: 200px;
+   
+}
+

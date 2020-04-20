@@ -1,0 +1,40 @@
+.banner{
+    height: 500px;
+    background-image: url('../../resources/bannerbackground-edit.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner .btn{
+    padding: 5px;
+    vertical-align: top;
+    border-radius: 0px;
+    border-radius: 0px 10px 10px 0px;
+    width: 100px;
+
+}
+
+.banner input{
+    font-size: 24px;
+}
+
+.search-field{
+    padding: 5px 20px;
+    border-radius: 40px 0px 0px 40px;
+    border: none;
+    border: 1px solid lightgray;
+}
+
+.search-field:focus{
+    outline: none;
+}
+.search{
+    background-color:rgb(249, 25, 68);
+    color: white;
+    border-radius:40px;
+    padding:5px 20px;
+    width: 100px;
+}
